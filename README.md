@@ -1,6 +1,7 @@
-<img src = "Github banner.png">
+<img src = "images\Github_banner.png">
 
-# <img src = "animated/hands.gif" height="40" />***Hey, Iam Mohammed Jasim K*** 
+<h1 align="center"><i>Hi there, I'm</i> <a href="https://www.linkedin.com/in/mohdjasimk">Mohammed Jasim K</a> <height="40" />
+</h1>
 
 
 ## 🔗 Links
@@ -9,6 +10,8 @@
 ## 🚀 About Me
 
 #### Data Scientist passionate about AI, Machine Learning, and NLP. 
+#### Master in Computer Science and Certified in Data science.
+
 #### Skilled in Python, SQL, Excel, Power BI, TensorFlow, and Open cv, with experience in building end-to-end data-driven applications. 
 #### Currently exploring Large Language Models (LLMs) and Multimodal Deep Learning. Dedicated to solving real-world problems through data and intelligent systems.
 
@@ -18,18 +21,12 @@
 ![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=MohammedJasimK&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MohammedJasimK&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedJasimK&layout=compact&theme=blue-green)
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=MohammedJasimK&theme=discord)
 
 <h2> 🛠️ Tech Stack Skills</h2>
-<img src = "animated\data science.png" height = 30/> 
-<img src = "images\python.png" height = 30/> 
-<img src = "animated/icons8-database.gif" height = 30>
-<img src = "images\ml.png" height = 30> <img src = "images\dl.png" height = 30> <img src = "images\excel.png" height = 30>
-<img src = "images\powerbi.jpg" height = 30>
-<img src = "images\tableau.png" height = 30>
-<img src="svg/HTML5.svg" height="30" /> &nbsp;
-<img src="svg/CSS3.svg" height="30" /> &nbsp;
-<img src = "images\mysql.png" height = 30>
+
+<img src = "animated\data science.png" height = 30/> <img src = "images\python.png" height = 30/> <img src = "animated/icons8-database.gif" height = 30> <img src = "images\ml.png" height = 30> <img src = "images\dl.png" height = 30> <img src = "images\excel.png" height = 30> <img src = "images\powerbi.jpg" height = 30> <img src = "images\tableau.png" height = 30> <img src="svg/HTML5.svg" height="30" /> &nbsp; <img src="svg/CSS3.svg" height="30" /> &nbsp; <img src = "images\mysql.png" height = 30>
 
